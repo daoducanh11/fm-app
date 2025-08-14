@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/fm-app/static/css/main.f855e6bc.css",
+    "main.js": "/fm-app/static/js/main.ff86cd9b.js",
+    "static/js/453.b0bb95f6.chunk.js": "/fm-app/static/js/453.b0bb95f6.chunk.js",
+    "static/media/logo.svg": "/fm-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/fm-app/index.html",
+    "main.f855e6bc.css.map": "/fm-app/static/css/main.f855e6bc.css.map",
+    "main.ff86cd9b.js.map": "/fm-app/static/js/main.ff86cd9b.js.map",
+    "453.b0bb95f6.chunk.js.map": "/fm-app/static/js/453.b0bb95f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.ff86cd9b.js"
+  ]
+}
